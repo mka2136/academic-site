@@ -14,8 +14,7 @@ role: Postdoctoral Researcher Fellow (TRANSFORM TL1)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Medicine  
-Columbia University
+- name: Department of Medicine - Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mom_pig
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
