@@ -70,6 +70,11 @@ user_groups:
 - Visitors
 ---
 
+
 Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)
+
+Division of Infectious Diseases
+
+Department of Medicine
 
 Columbia University Irving Medical Center
