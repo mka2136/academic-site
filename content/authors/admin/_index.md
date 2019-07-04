@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Medini K. Annavajhala, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher Fellow (TRANSFORM TL1)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Medicine  
+Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
