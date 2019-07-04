@@ -45,15 +45,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=pQ5m-OcAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Medini_Annavajhala
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/m-annavajhala/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mka2136
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mom_pig
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -73,8 +79,6 @@ user_groups:
 
 Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)
 
-Division of Infectious Diseases
-
-Department of Medicine
+Department of Medicine, Division of Infectious Diseases
 
 Columbia University Irving Medical Center
