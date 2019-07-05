@@ -16,7 +16,7 @@ all_day: false
 publishDate: "2019-07-05T00:00:00Z"
 
 authors: ["Medini K. Annavajhala"]
-tags: []
+tags: ["microbiome"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -47,7 +47,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
- projects:
+projects:
    -internal-project
  
 
