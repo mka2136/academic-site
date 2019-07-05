@@ -1,5 +1,5 @@
 ---
-title: Microbiome 101<br>An Introduction to Microbiome Studies and Bioinfomatics Tools
+title: Microbiome 101 <br> An Introduction to Microbiome Studies and Bioinfomatics Tools
 event: Microbiome Working Group Seminar Series
 event_url: https://www.infectiousdiseases.cumc.columbia.edu/research/research-centers-and-programs/microbiome-working-group
 location: New York, NY
