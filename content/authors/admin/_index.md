@@ -74,7 +74,7 @@ user_groups:
 ---
 
 
-Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)
+<p style="color:grey">Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)</p>
 
 Department of Medicine, Division of Infectious Diseases
 
