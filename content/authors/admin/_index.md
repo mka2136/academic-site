@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: MS, PhD in Environmental Engineering
+  - course: MS/PhD in Environmental Engineering
     institution: Columbia University
-    year: 2014, 2017
-  - course: BSc in Biological Sciences
+    year: 2014/2017
+  - course: BS in Biological Sciences
     institution: Carnegie Mellon University
     year: 2012
 
