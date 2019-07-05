@@ -31,7 +31,7 @@ links:
   name: Follow
   url: https://twitter.com/mom_pig
 url_code: ""
-url_pdf: "static/Microbiome101.pdf"
+url_pdf: "content/talk/Microbiome 101.pdf"
 url_slides: ""
 url_video: ""
 
