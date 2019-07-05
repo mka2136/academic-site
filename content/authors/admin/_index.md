@@ -18,24 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multidrug-resistance in bacteria and relationships between pathogenic and non-pathogenic organisms in human and environmental systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human and environmental microbiomes
+- Pathogen genomics and antimicrobial resistance
+- Engineered biological systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MS, PhD in Environmental Engineering
+    institution: Columbia University
+    year: 2014, 2017
+  - course: BSc in Biological Sciences
+    institution: Carnegie Mellon University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
