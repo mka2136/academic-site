@@ -13,7 +13,7 @@ date: "2017-09-27T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#  publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-07-05T00:00:00Z"
 
 authors: ["Medini K. Annavajhala"]
 tags: []
@@ -21,15 +21,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-# image:
- # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
- # focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
 
 links:
-#  - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+  - icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/mom_pig
 url_code: ""
 url_pdf: "static/Microbiome101.pdf"
 url_slides: ""
@@ -47,8 +47,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - internal-project
+ projects: []
+ 
 
 # Enable math on this page?
 math: true
