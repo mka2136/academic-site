@@ -3,13 +3,13 @@ title: Microbiome 101: An Introduction to Microbiome Studies and Bioinfomatics T
 event: Microbiome Working Group Seminar Series
 event_url: https://www.infectiousdiseases.cumc.columbia.edu/research/research-centers-and-programs/microbiome-working-group
 location: New York, NY
-summary: An example talk using Academic's Markdown slides feature.
+summary: An introduction to basic concepts related to basic, clinical, and translational microbiome studies.
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2017-09-27T16:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date_end: "2017-09-27T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -47,7 +47,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
- projects: []
+ projects= []
  
 
 # Enable math on this page?
