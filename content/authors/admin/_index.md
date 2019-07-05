@@ -21,16 +21,16 @@ organizations:
 bio: My research interests include multidrug-resistance in bacteria and relationships between pathogenic and non-pathogenic organisms in human and environmental systems.
 
 interests:
-- Human and environmental microbiomes
-- Pathogen genomics and antimicrobial resistance
+- Human & environmental microbiomes
+- Pathogen genomics & antimicrobial resistance
 - Engineered biological systems
 
 education:
   courses:
-  - course: MS/PhD in Environmental Engineering
+  - course: MS/PhD: Environmental Engineering
     institution: Columbia University
     year: 2014/2017
-  - course: BS in Biological Sciences
+  - course: BS: Biological Sciences
     institution: Carnegie Mellon University
     year: 2012
 
