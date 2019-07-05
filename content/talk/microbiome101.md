@@ -1,5 +1,5 @@
 ---
-title: Microbiome 101 - An Introduction to Microbiome Studies and Bioinfomatics Tools
+title: Microbiome 101<br>An Introduction to Microbiome Studies and Bioinfomatics Tools
 event: Microbiome Working Group Seminar Series
 event_url: https://www.infectiousdiseases.cumc.columbia.edu/research/research-centers-and-programs/microbiome-working-group
 location: New York, NY
@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2019-07-05T00:00:00Z"
 
-authors: ["Medini K. Annavajhala"]
+authors: []
 tags: ["microbiome"]
 
 # Is this a featured talk? (true/false)
@@ -26,10 +26,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/mom_pig
+[]
 url_code: ""
 url_pdf: "content/talk/Microbiome 101.pdf"
 url_slides: ""
