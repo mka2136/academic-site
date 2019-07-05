@@ -25,8 +25,6 @@ image:
   caption: ''
   focal_point: Right
 
-links:
-[]
 url_code: ""
 url_pdf: "content/talk/Microbiome 101.pdf"
 url_slides: ""
