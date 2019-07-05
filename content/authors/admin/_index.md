@@ -75,5 +75,7 @@ user_groups:
 
 
 Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)
+
 Department of Medicine, Division of Infectious Diseases
+
 Columbia University Irving Medical Center
