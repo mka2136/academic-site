@@ -27,7 +27,7 @@ abstract = ! "Complete ammonia oxidation (comammox) to nitrate by certain Nitros
 abstract_short = "A metagenomic survey was conducted to quantify the potential contribution of certain Nitrospira-lineage bacteria capable of complete ammonia oxidation (CMX) to overall nitrogen cycling in full-scale engineered biological nitrogen removal (BNR) processes treating mainstream or sidestream wastewater. Phylogenetic analysis of key nitrification functional genes *amoA*, *haoB*, and *nxrB* confirmed that each BNR system contained coding regions for production of these enzymes by CMX specifically."
 
 # Featured image thumbnail (optional)
-image_preview = "publications/cmx_preview.tif"
+image_preview = "cmx_preview.tif"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "publications/cmx_header.tif"
-caption = "My caption 😄"
+image = "cmx_header.tif"
+caption = ""
 
 +++
