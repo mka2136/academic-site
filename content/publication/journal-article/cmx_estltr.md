@@ -5,7 +5,7 @@ title = "Comammox Functionality Identified in Diverse Engineered Biological Wast
 date = "2018-01-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Vikram Kapoor","Jorge Santo-Domingo","Kartik Chandran"]
+authors = ["admin","Vikram Kapoor","Jorge Santo-Domingo","Kartik Chandran"]
 
 # Publication type.
 # Legend:
@@ -51,8 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "DOI", url = "https://doi.org/10.1021/acs.estlett.7b00577"},
-                {name = "Cite", url = "cmx_estltr_cite.bib"}]
+# url_custom = [{name = "DOI", url = "https://doi.org/10.1021/acs.estlett.7b00577"},{name = "Cite", url = "cmx_estltr_cite.bib"}]
 
 # Does the content use math formatting?
 math = true
