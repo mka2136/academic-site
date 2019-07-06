@@ -30,7 +30,6 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
 featured = true
 
 # Projects (optional).
@@ -52,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "DOI", url = "https://doi.org/10.1021/acs.estlett.7b00577/"}, {name = "Cite", url = "cmx_estltr_cite.bib"}]
+# url_custom = [{name = "DOI", url = "https://doi.org/10.1021/acs.estlett.7b00577/"}, {name = "Cite", url = "cmx_estltr_cite.bib"}]
 
 # Does the content use math formatting?
 math = true
