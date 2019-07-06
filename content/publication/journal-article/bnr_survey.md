@@ -1,5 +1,5 @@
 +++
-title = "Comammox Functionality Identified in Diverse Engineered Biological Wastewater Treatment"
+title = "Comammox"
 
 # Date first published.
 date = "2018-01-25"
