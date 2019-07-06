@@ -39,7 +39,7 @@
   projects = ["nutrient-cycling"]
   
   # Links (optional).
-  url_pdf = "journal-article/Annavajhala_ESTLetter_2018.pdf"
+  url_pdf = "Annavajhala_ESTLetter_2018.pdf"
   url_preprint = ""
   url_code = ""
   url_dataset = ""
