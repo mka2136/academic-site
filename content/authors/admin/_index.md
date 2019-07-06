@@ -23,7 +23,8 @@ bio: My research interests include multidrug-resistance in bacteria and relation
 interests:
 - Human & environmental microbiomes
 - Pathogen genomics & antimicrobial resistance
-- Engineered biological systems
+- Nutrient cycling in waste streams
+- Bioprocess engineering
 
 education:
   courses:
