@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -64,4 +64,4 @@ subtitle = ""
 +++
 
 
-[SEE ALL PUBLICATIONS]({{< ref "/publication/_index.md" >}}) <a class="col-12 col-lg-8"><strong>&#8250;</strong></a>
+[SEE ALL PUBLICATIONS &#8250;]({{< ref "/publication/_index.md" >}})
