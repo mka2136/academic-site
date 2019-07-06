@@ -33,6 +33,8 @@ tags:
 featured: true
 
 links:
+ - name: "Cite"
+   url: "citation.bib"
  - name: "Supplement"
    url: "https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.7b00577/suppl_file/ez7b00577_si_001.pdf"
 url_pdf: ''
