@@ -64,4 +64,4 @@ subtitle = ""
 +++
 
 
-[SEE ALL PUBLICATIONS]({{< ref "/publication/_index.md" >}}) <strong>&#8250;</strong>
+[SEE ALL PUBLICATIONS]({{< ref "/publication/_index.md" >}}) <a class="col-12 col-lg-8"><strong>&#8250;</strong></a>
