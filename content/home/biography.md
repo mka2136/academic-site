@@ -28,7 +28,7 @@ title = "Biography"
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -48,6 +48,6 @@ title = "Biography"
   #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Since an early age, I have been constantly in awe of, and inspired by, what microorganisms can do to and for us humans. Currently, I am a <a href = "https://www.irvinginstitute.columbia.edu/services/tl1-training-programs">TRANSFORM TL1</a>-funded Postdoctoral Research Fellow working with <a href = "https://www.infectiousdiseases.cumc.columbia.edu/research-labs/uhlemann-lab">Dr. Anne-Catrin Uhlemann</a> at Columbia University Irving Medical Center in the Department of Medicine Division of Infectious Diseases. I am a microbiologist and engineer with a background in pathogen genomics and multidrug resistance, human and environmental microbiomes, and engineering of biological processes. 
+<p style="color:white">Since an early age, I have been constantly in awe of, and inspired by, what microorganisms can do to and for us humans. Currently, I am a <a href = "https://www.irvinginstitute.columbia.edu/services/tl1-training-programs">TRANSFORM TL1</a>-funded Postdoctoral Research Fellow working with <a href = "https://www.infectiousdiseases.cumc.columbia.edu/research-labs/uhlemann-lab">Dr. Anne-Catrin Uhlemann</a> at Columbia University Irving Medical Center in the Department of Medicine Division of Infectious Diseases. I am a microbiologist and engineer with a background in pathogen genomics and multidrug resistance, human and environmental microbiomes, and engineering of biological processes.</p> 
 
-My recent focus has been the complex relationships between commensal and pathogenic organisms in the human microbiome. Specifically, I study how oral and gut microbiota modulate the emergence and clearance of multidrug-resistant organisms in immunocompromised hosts. My future research interests lie at the intersection of my prior experiences with environmental bioprocess engineering and the relationship between the human microbiome and antimicrobial resistance.
+<p style="color:white">My recent focus has been the complex relationships between commensal and pathogenic organisms in the human microbiome. Specifically, I study how oral and gut microbiota modulate the emergence and clearance of multidrug-resistant organisms in immunocompromised hosts. My future research interests lie at the intersection of my prior experiences with environmental bioprocess engineering and the relationship between the human microbiome and antimicrobial resistance.</p>
