@@ -6,7 +6,7 @@ authors:
 - Jorge Santo-Domingo
 - Kartik Chandran
 date: "2018-10-26T00:00:00Z"
-doi: "10.3389/fmicb.2018.02544/"
+doi: "10.3389/fmicb.2018.02544"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-06T00:00:00Z"
