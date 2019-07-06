@@ -1,8 +1,8 @@
 ---
 title: "Metatranscriptomic investigation of adaptation in NO and N<sub>2</sub>O production from a lab-scale nitrification process upon repeated exposure to anoxic–aerobic cycling"
 authors:
-- Ariane C. Brotto\*
-- Medini K. Annavajhala\*
+- Ariane C. Brotto*
+- Medini K. Annavajhala*
 - Kartik Chandran
 date: "2018-12-06T00:00:00Z"
 doi: "10.3389/fmicb.2018.03012"
