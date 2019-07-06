@@ -75,6 +75,6 @@ user_groups:
 ---
 
 
-<p style="color:#db9e9e";"margin-bottom:10px">Postdoctoral Research Fellow</p>
+<p style="color:#db9e9e";"margin-bottom:10px"><strong>Postdoctoral Research Fellow</strong></p>
 <p style="color:#db9e9e";"margin-bottom:10px">Department of Medicine, Division of Infectious Diseases</p>
 <p style="color:#db9e9e";"margin-bottom:10px">Columbia University Irving Medical Center</p>
