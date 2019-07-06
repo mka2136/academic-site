@@ -29,7 +29,7 @@ tags:
 - nutrient cycling
 - engineered bioprocess
 - wastewater engineering
-featured: true
+featured: false
 
 links:
  - name: "Cite"
