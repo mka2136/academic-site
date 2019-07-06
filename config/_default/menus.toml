@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Talks"
-  url = "content/talk/"
+  url = "talk/_index.md"
   weight = 40
   
 [[main]]
