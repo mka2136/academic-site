@@ -63,6 +63,5 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Find more by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
+[SEE ALL PUBLICATIONS &#62;]({{< ref "/publication/_index.md" >}})
