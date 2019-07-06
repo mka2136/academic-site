@@ -27,7 +27,9 @@ abstract: ! "Complete ammonia oxidation (comammox) to nitrate by certain Nitrosp
 summary: ! "A metagenomic survey was conducted to quantify the potential contribution of certain Nitrospira-lineage bacteria capable of complete ammonia oxidation (CMX) to overall nitrogen cycling in full-scale engineered biological nitrogen removal (BNR) processes treating mainstream or sidestream wastewater. Phylogenetic analysis of key nitrification functional genes *amoA*, *haoB*, and *nxrB* confirmed that each BNR system contained coding regions for production of these enzymes by CMX specifically."
 
 tags:
-- Source Themes
+- nutrient cycling
+- engineered bioprocess
+- wastewater engineering
 featured: true
 
 links:
