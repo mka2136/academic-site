@@ -66,6 +66,6 @@ projects: ['nutrient-cycling']
 slides: ""
 
 header:
-  image: "cmx_header.png"
+  image: "cmx_header.jpg"
   caption: ""
 ---
