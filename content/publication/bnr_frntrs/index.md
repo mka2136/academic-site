@@ -33,6 +33,8 @@ tags:
 featured: true
 
 links:
+ - name: "Cite"
+   url: "citation.bib"
  - name: "Supplement"
    url: "https://www.frontiersin.org/articles/10.3389/fmicb.2018.02544/full#supplementary-material"
 url_pdf: ''
