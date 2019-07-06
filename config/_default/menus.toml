@@ -46,3 +46,51 @@
    url = "cv/work_exp"
    weight = 20
    parent = "CV"
+
+[[main]]
+   name = "Education"
+   url = "cv/education"
+   weight = 30
+   parent = "CV"
+   
+[[main]]
+   name = "Honors"
+   url = "cv/awards"
+   weight = 40
+   parent = "CV"
+   
+[[main]]
+   name = "Funding"
+   url = "cv/fellowships"
+   weight = 50
+   parent = "CV"
+   
+[[main]]
+   name = "Service"
+   url = "cv/service"
+   weight = 60
+   parent = "CV"
+ 
+[[main]]
+   name = "Memberships"
+   url = "cv/memberships"
+   weight = 70
+   parent = "CV"
+   
+[[main]]
+   name = "Teaching"
+   url = "cv/teaching"
+   weight = 80
+   parent = "CV"
+   
+[[main]]
+   name = "Mentoring"
+   url = "cv/mentoring"
+   weight = 90
+   parent = "CV"
+   
+[[main]]
+   name = "Trainings"
+   url = "cv/training"
+   weight = 100
+   parent = "CV"
