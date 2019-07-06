@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://www.mailman.columbia.edu/research/precision-prevention/machine-learning-boot-camp-analyzing-biomedical-and-health-data"
   certificate_url = ""
   date_start = "2019-06-06"
-  date_end = "2019-06-07"
+  date_end = ""
   description = "Two-day intensive boot camp of seminars combined with hands-on R sessions to provide an overview of concepts, techniques, and data analysis methods with applications in biomedical research."
 
 +++
