@@ -34,7 +34,7 @@ featured: true
 
 links:
  - name: "Supplement"
-   url: "https://figshare.com/articles/Comammox_Functionality_Identified_in_Diverse_Engineered_Biological_Wastewater_Treatment_Systems/5844006/"
+   url: "https://pubs.acs.org/doi/suppl/10.1021/acs.estlett.7b00577/suppl_file/ez7b00577_si_001.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
