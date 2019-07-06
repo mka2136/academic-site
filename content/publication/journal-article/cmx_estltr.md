@@ -47,7 +47,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://figshare.com/articles/Comammox_Functionality_Identified_in_Diverse_Engineered_Biological_Wastewater_Treatment_Systems/5844006"
+url_source = "https://figshare.com/articles/Comammox_Functionality_Identified_in_Diverse_Engineered_Biological_Wastewater_Treatment_Systems/5844006/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
