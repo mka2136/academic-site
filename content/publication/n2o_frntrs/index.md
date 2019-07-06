@@ -1,5 +1,5 @@
 ---
-title: "Metatranscriptomic investigation of adaptation in NO and N<sub>2</sub>O production from a lab-scale nitrification process upon repeated exposure to anoxic–aerobic cycling"
+title: "Metatranscriptomic investigation of adaptation in NO and N_2_O production from a lab-scale nitrification process upon repeated exposure to anoxic–aerobic cycling"
 authors:
 - Ariane C. Brotto*
 - Medini K. Annavajhala*
