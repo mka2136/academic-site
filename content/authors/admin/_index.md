@@ -75,6 +75,7 @@ user_groups:
 ---
 
 
-<p style="color:#db9e9e";"margin-bottom:10px">Postdoctoral Researcher Fellow (Irving Institute TRANSFORM TL1)</p>
-<p style="color:#db9e9e";"margin-bottom:10px">Department of Medicine, Division of Infectious Diseases</p>
+<p style="color:#db9e9e";"margin-bottom:10px">Postdoctoral Research Fellow</p>
+<p style="color:#db9e9e";"margin-bottom:10px">Division of Infectious Diseases</p>
+<p style="color:#db9e9e";"margin-bottom:10px">Department of Medicine</p>
 <p style="color:#db9e9e";"margin-bottom:10px">Columbia University Irving Medical Center</p>
