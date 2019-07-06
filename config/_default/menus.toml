@@ -91,6 +91,6 @@
    
 [[main]]
    name = "Trainings"
-   url = "cv/training"
+   url = "cv/#training"
    weight = 100
    parent = "CV"
