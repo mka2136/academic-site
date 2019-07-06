@@ -43,54 +43,54 @@
 
 [[main]]
    name = "Experience"
-   url = "cv/work_exp"
+   url = "cv/work_exp.md"
    weight = 20
    parent = "CV"
 
 [[main]]
    name = "Education"
-   url = "cv/education"
+   url = "cv/education.md"
    weight = 30
    parent = "CV"
    
 [[main]]
    name = "Honors"
-   url = "cv/awards"
+   url = "cv/awards.md"
    weight = 40
    parent = "CV"
    
 [[main]]
    name = "Funding"
-   url = "cv/fellowships"
+   url = "cv/fellowships.md"
    weight = 50
    parent = "CV"
    
 [[main]]
    name = "Service"
-   url = "cv/service"
+   url = "cv/service.md"
    weight = 60
    parent = "CV"
  
 [[main]]
    name = "Memberships"
-   url = "cv/memberships"
+   url = "cv/memberships.md"
    weight = 70
    parent = "CV"
    
 [[main]]
    name = "Teaching"
-   url = "cv/teaching"
+   url = "cv/teaching.md"
    weight = 80
    parent = "CV"
    
 [[main]]
    name = "Mentoring"
-   url = "cv/mentoring"
+   url = "cv/mentoring.md"
    weight = 90
    parent = "CV"
    
 [[main]]
    name = "Trainings"
-   url = "cv/training"
+   url = "cv/training.md"
    weight = 100
    parent = "CV"
