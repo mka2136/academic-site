@@ -49,7 +49,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,4 +64,8 @@ projects: ['nutrient-cycling']
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+header:
+  image: "cmx_header.png"
+  caption: ""
 ---
