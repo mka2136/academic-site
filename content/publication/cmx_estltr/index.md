@@ -6,7 +6,7 @@ authors:
 - Jorge Santo-Domingo
 - Kartik Chandran
 date: "2018-01-25T00:00:00Z"
-doi: "https://doi.org/10.1021/acs.estlett.7b00577/"
+doi: "10.1021/acs.estlett.7b00577/"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-06T00:00:00Z"
