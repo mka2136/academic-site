@@ -1,5 +1,5 @@
 ---
-title: "Successive Emergence of Ceftazidime-Avibactam Resistance through Distinct Genomic Adaptations in blaKPC-2-Harboring Klebsiella pneumoniae Sequence Type 307 Isolates"
+title: "Successive emergence of ceftazidime-avibactam resistance through distinct genomic adaptations in *bla*KPC-2-harboring *Klebsiella pneumoniae* sequence type 307 isolates"
 authors:
 - Marla J. Giddins
 - Nenad Macesic
