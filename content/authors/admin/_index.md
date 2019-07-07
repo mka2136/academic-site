@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: MS/PhD, Environmental Engineering
+  - course: MS/PhD in Environmental Engineering
     institution: Columbia University
     year: 2014/2017
-  - course: BS, Biological Sciences
+  - course: BS in Biological Sciences (additional major in Environmental Policy)
     institution: Carnegie Mellon University
     year: 2012
 
