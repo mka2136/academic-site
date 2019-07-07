@@ -75,4 +75,4 @@ user_groups:
 ---
 
 
-<p style="color:#884152";"margin-bottom:10px"><strong>Postdoctoral Research Fellow<br>Division of Infectious Diseases<br>Department of Medicine<br>Columbia University Irving Medical Center</strong></p>
+<p style="color:#b46784";"margin-bottom:10px"><strong>Postdoctoral Research Fellow<br>Division of Infectious Diseases<br>Department of Medicine<br>Columbia University Irving Medical Center</strong></p>
