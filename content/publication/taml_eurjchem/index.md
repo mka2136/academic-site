@@ -19,8 +19,8 @@ publishDate: "2019-07-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: !"*Chemistry: A European Journal*"
-publication_short: !"*Chem: Eur J*"
+publication: !"*Chemistry A European Journal*"
+publication_short: !"*Chem Eur J*"
 
 abstract: ! "<strong>Reacting rationally:</strong><br>During the 1e oxidation of ferrocyanide by the catalytic TAML activator\/H<sub>2</sub>O<sub>2</sub>, four Fe<sup>IV</sup> tetra-amido macrocyclic ligand (TAML) intermediates were detected that are involved in a fast acid–base equilibrium. The counterintuitive reactivity pattern is explained by the overall free-energy change during the reduction of Fe<sup>IV</sup> to Fe<sup>III</sup> TAML complexes, with competing contributions from electronic and solvation energy changes."
 
