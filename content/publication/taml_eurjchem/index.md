@@ -1,5 +1,5 @@
 ---
-title: "Experimental and theoretical evidence for multiple FeIV reactive intermediates in TAML-activator catalysis Rationalizing a counterintuitive reactivity order"
+title: ! "Experimental and theoretical evidence for multiple FeIV reactive intermediates in TAML-activator catalysis: Rationalizing a counterintuitive reactivity order"
 authors:
 - Soumen Kundu
 - Medini K. Annavajhala
