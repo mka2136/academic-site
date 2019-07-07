@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "MS/PhD in Earth & Environmental Engineering"
+  name = "MS//PhD in Earth & Environmental Engineering"
   description = ! "Columbia University, 2014//2017<br>*Presidential Fellowship*"
 
 +++
