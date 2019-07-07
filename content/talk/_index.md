@@ -9,7 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: !"[SEE CV FOR A FULL LIST OF ORAL & POSTER PRESENTATIONS &#8250;]({{< ref "/cv/_index.md" >}})"
   image: ""
 ---
-[SEE CV FOR A FULL LIST OF ORAL & POSTER PRESENTATIONS &#8250;]({{< ref "/cv/_index.md" >}})
