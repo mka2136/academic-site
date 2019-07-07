@@ -12,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+[SEE CV FOR A FULL LIST OF ORAL & POSTER PRESENTATIONS &#8250;]({{< ref "/cv/_index.md" >}})
