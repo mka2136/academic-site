@@ -33,11 +33,7 @@ title = "Executive Summary"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-links:
- - icon: cv
- - icon_pack: ai
- - link: pubs/Annavajhala_ESTLetter_2018.pdf
-  
+
 #  [cta_alt]
   #  url = "https://sourcethemes.com/academic/"
   #  label = "View Documentation"
