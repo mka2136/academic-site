@@ -1,7 +1,7 @@
 ---
 title: ! 'Using Molecular Techniques and Next-Generation Sequencing to Understand and Optimize Wastewater Treatment Processes'
 event: Hot Topics in Water and Wastewater, NJAES Office of Continuing Professional Education, Rutgers University
-event_url: https://www.thermofisher.com/us/en/home/life-science/sequencing/next-generation-sequencing/ion-world-tour-forum.html?socid=social_btb
+event_url: 
 location: Belvedere, NJ
 summary: Review of conventional and next-generation molecular techniques used in the design and operation of wastewater treatment processes.
 abstract: ""
