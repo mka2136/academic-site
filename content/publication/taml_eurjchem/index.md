@@ -6,7 +6,6 @@ authors:
 - Igor V. Kurnikov
 - Alexander D. Ryabov
 - Terrence J. Collins
-
 date: "2012-07-24T00:00:00Z"
 doi: "10.1002/chem.201201665"
 
@@ -30,7 +29,7 @@ summary: ! "In the first in-depth study of the reactivity of the “Oxidized TAM
 
 tags:
 - environmental remediation
-- bio-mimetic catalysis
+- biomimetic catalysis
 
 featured: false
 
