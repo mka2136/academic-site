@@ -17,7 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "BS in Biological Sciences & Environmental Policy, Science and Humanities Scholar"
-  description = "Carnegie Mellon University"
+  name = "Carnegie Mellon University"
+  description = ! "BS in Biological Sciences & Environmental Policy, 2012<br>*Science and Humanities Scholar*"
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Columbia University"
+  description = ! "MS/PhD in Earth & Environmental Engineering, 2014/2017<br>*Presidential Fellowship*"
 
 +++
