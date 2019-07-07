@@ -1,3 +1,4 @@
++++
 widget = "featurette"
 headless = true  # This file represents a page section.
 
@@ -12,3 +13,4 @@ title = "Education"
   icon_pack = "fas"
   name = ! "BS in Biological Sciences<br>Additional major in Environmental Policy<br>2012"
   description = "90%"
++++
