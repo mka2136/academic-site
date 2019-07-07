@@ -55,6 +55,12 @@
    identifier = "CV"
 
 [[main]]
+   name = "Summary"
+   url = "cv/#summary"
+   weight = 10
+   parent = "CV"
+   
+[[main]]
    name = "Experience"
    url = "cv/#work_exp"
    weight = 20
