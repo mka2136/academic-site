@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = ! "BS in Biological Sciences<br>Additional Major in Environmental Policy<br>Science and Humanities Scholar"
+  name = "BS in Biological Sciences<br>Additional Major in Environmental Policy<br>Science and Humanities Scholar"
   description = "Carnegie Mellon University"
 
 +++
