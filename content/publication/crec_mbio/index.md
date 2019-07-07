@@ -1,5 +1,5 @@
 ---
-title: "Successive Emergence of Ceftazidime-Avibactam Resistance through Distinct Genomic Adaptations in blaKPC-2-Harboring Klebsiella pneumoniae Sequence Type 307 Isolates"
+title: "Genomic and geographic context for the evolution of high-risk carbapenem-resistant Enterobacter cloacae complex clones ST171 and ST78"
 authors:
 - Angela Gomez-Simmonds*
 - Medini K. Annavajhala*
@@ -37,7 +37,7 @@ tags:
 - pathogen genomics
 - multidrug resistance
 
-featured: false
+featured: true
 
 links:
  - name: "Cite"
