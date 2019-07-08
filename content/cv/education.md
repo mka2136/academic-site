@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "capsules"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Postdoctoral training in Infectious Diseases"
   description = "Columbia University Medical Center (Current)"
 +++
