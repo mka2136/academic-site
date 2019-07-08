@@ -63,13 +63,13 @@
 [[main]]
    name = "Experience"
    url = "cv/#work_exp"
-   weight = 20
+   weight = 30
    parent = "CV"
 
 [[main]]
    name = "Education"
    url = "cv/#education"
-   weight = 30
+   weight = 20
    parent = "CV"
    
 [[main]]
