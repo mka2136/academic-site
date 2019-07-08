@@ -26,4 +26,9 @@ subtitle = ""
   name = "MS, PhD in Earth and Environmental Engineering"
   description = "Columbia University, 2014, 2017"
 
+[[feature]]
+  icon = "capsules"
+  icon_pack = "fas"
+  name = "Postdoctoral training in Infectious Diseases"
+  description = "Columbia University Medical Center (Current)"
 +++
