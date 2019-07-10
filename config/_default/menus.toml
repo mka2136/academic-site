@@ -20,19 +20,19 @@
   
 [[main]]
   name = "Projects"
-  url = "projects/"
+  url = "personal/"
   weight = 50
   identity = "Projects"
 
 [[main]]
   name = "Photo Booth"
-  url = "projects/#photo-booth"
+  url = "personal/#photo-booth"
   weight = 10
   parent = "Projects"
   
 [[main]]
   name = "A Color Story"
-  url = "projects/#a-color-story"
+  url = "personal/#a-color-story"
   weight = 20
   parent = "Projects"
 
