@@ -26,15 +26,15 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Nutrient Cycling"
+    name = "Nutrient Cycling in Waste"
     tag = "nutrient cycling"
   
   [[content.filter_button]]
-    name = "Microbiome"
+    name = "Immunocompromised Host Microbiome"
     tag = "microbiome"
     
   [[content.filter_button]]
-    name = "Multidrug Resistance"
+    name = "Multidrug Resistance in Bacterial Pathogens"
     tag = "multidrug resistance"
 
 [design]
