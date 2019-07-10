@@ -50,6 +50,4 @@ title = "Executive Summary"
 
 <p style="color:white;font-size:18px;">My recent focus has been the complex relationships between commensal and pathogenic organisms in the human microbiome. Specifically, I study how oral and gut microbiota modulate the emergence and clearance of multidrug-resistant organisms in immunocompromised hosts. My future research interests lie at the intersection of environmental bioprocess engineering and the relationship between the human microbiome and antimicrobial resistance.</p>
 
-[SCROLL DOWN FOR MORE, OR FIND A PDF OF MY CV HERE ›]({{< ref "/cv/index.md" >}})
-
 {{% staticref "files/academic_cv_7.9.19.pdf" "newtab" %}}SCROLL DOWN FOR MORE, OR FIND A PDF OF MY CV HERE ›{{% /staticref %}}
