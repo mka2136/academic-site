@@ -34,7 +34,7 @@ subtitle = ""
     tag = "microbiome"
     
   [[content.filter_button]]
-    name = "Multidrug Resistance in Bacteria"
+    name = "Multidrug Resistance"
     tag = "multidrug resistance"
 
 [design]
