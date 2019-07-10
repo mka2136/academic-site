@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Nutrient Cycling in Waste"
+    name = "Nutrient Cycling"
     tag = "nutrient cycling"
-  
-  [[content.filter_button]]
-    name = "Immunocompromised Host Microbiome"
-    tag = "microbiome"
     
   [[content.filter_button]]
     name = "Multidrug Resistance"
     tag = "multidrug resistance"
+    
+  [[content.filter_button]]
+    name = "Immunocompromised Host Microbiome"
+    tag = "microbiome"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
