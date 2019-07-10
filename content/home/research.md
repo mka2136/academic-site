@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Nutrient Cycling"
-    tag = ["nutrient cycling","engineered bioprocess","wastewater engineering"]
+    tag = "nutrient cycling"
   
   [[content.filter_button]]
     name = "Microbiome"
