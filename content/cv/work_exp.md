@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """
   Research projects:  
   
-  * Gut & oral microbiome in immunocompromised hosts (transplant recipients, HIV+ patients)  
+  * Microbiome of immunocompromised hosts (transplant recipients, HIV+ patients)  
   * Microbiome signatures of colonization & infection by multidrug-resistant organisms"""
   
 [[experience]]
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   description = """
   Research projects (Nutrient Cycling in Waste Streams):  
   
-  * Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors  
+  * Meta-omics of biological nitrogen removal from wastewater  
   * Comparative genomics of phosphorus-accumulating organisms  
   * Anaerobic fermentation of food waste"""
   
