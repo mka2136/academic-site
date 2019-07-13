@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = ""
   description = """
-  Research projects:
-    * Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)
+  Research projects:\
+    * Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)\
 	  * Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
   
 [[experience]]
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2018-11-30"
   description = """
-  Research projects:
-	  * Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods
+  Research projects:\
+	  * Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods\
 	  * Liver transplant microbiome"""
 
 [[experience]]
@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2017-05-20"
   description = """
-  Research projects (Nutrient Cycling in Waste Streams):
-	  * Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors
-	  * Comparative genomics of phosphorus-accumulating organisms
+  Research projects (Nutrient Cycling in Waste Streams):\
+	  * Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors\
+	  * Comparative genomics of phosphorus-accumulating organisms\
 	  * Anaerobic fermentation of food waste"""
   
 [[experience]]
@@ -62,8 +62,8 @@ date_format = "Jan 2006"
   date_start = "2010-10-01"
   date_end = "2012-05-30"
   description = """
-  Research projects:
-	  * pH-dependent kinetics of TAML-activated oxidation 
+  Research projects:\
+	  * pH-dependent kinetics of TAML-activated oxidation\ 
 	  * Oxidation of persistent water pollutants using TAML-catalysis"""
 
 [[experience]]
@@ -74,8 +74,8 @@ date_format = "Jan 2006"
   date_start = "2010-06-01"
   date_end = "2010-08-31"
   description = """
-  Responsibilities included:
-	  * Development and testing of product demos for Dawn
+  Responsibilities included:\
+	  * Development and testing of product demos for Dawn\
 	  * Aiding in direction of demo reel for marketing purposes"""
   
 +++
