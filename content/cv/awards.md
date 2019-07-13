@@ -50,22 +50,26 @@ subtitle = ""
 2019 Up-Goer Five Thing Symposium, ASM Microbe 2019: Team MVP, Best Phrase  
 
 * Science Communication Symposium; Presentations of research abstracts using only 1,000 most commonly used words in English  
+
 2019 Outstanding Abstract Award, ASM Microbe 2019  
 2019 ASM Travel Award, ASM Microbe 2019  
 2018 Conference Participation Grant, International Microbiome in HIV Workshop  
 2017 Herbert H. Kellogg Fellowship, Columbia School of Engineering and Applied Sciences  
 
 * Recognizing distinguished ability as a teaching assistant  
+
 2012 – 2016 Presidential Fellowship, Columbia School of Engineering and Applied Sciences  
 
 * Selected by a panel of SEAS faculty for the distinguished Presidential Fellowship
 as an incoming MS/PhD candidate due to an “outstanding potential for graduate
 research and training.” The fellowship provided full financial support to pursue my
 doctoral research with intellectual freedom in any field of choice within SEAS  
+
 2014 – 2015 International Fellows Program, Columbia School of International and Public Affairs  
 
 * Selected for a multidisciplinary group of 30 students to participate in discussions
 on the role of the US in international affairs  
+
 2012 University Honors, Carnegie Mellon University  
 2012 Mellon College of Science Honors, Carnegie Mellon University  
 2012 Outstanding Undergraduate Research, Carnegie Mellon University  
