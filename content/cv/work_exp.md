@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Research projects:
-	Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)
-	Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
+    * Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)
+	  * Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
   
 [[experience]]
   title = "Postdoctoral Research Scientist"
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   date_end = "2018-11-30"
   description = """
   Research projects:
-	Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods
-	Liver transplant microbiome"""
+	  * Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods
+	  * Liver transplant microbiome"""
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -50,9 +50,9 @@ date_format = "Jan 2006"
   date_end = "2017-05-20"
   description = """
   Research projects (Nutrient Cycling in Waste Streams):
-	Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors
-	Comparative genomics of phosphorus-accumulating organisms
-	Anaerobic fermentation of food waste"""
+	  * Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors
+	  * Comparative genomics of phosphorus-accumulating organisms
+	  * Anaerobic fermentation of food waste"""
   
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -63,8 +63,8 @@ date_format = "Jan 2006"
   date_end = "2012-05-30"
   description = """
   Research projects:
-	pH-dependent kinetics of TAML-activated oxidation 
-	Oxidation of persistent water pollutants using TAML-catalysis"""
+	  * pH-dependent kinetics of TAML-activated oxidation 
+	  * Oxidation of persistent water pollutants using TAML-catalysis"""
 
 [[experience]]
   title = "Intern, Products Research"
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   date_end = "2010-08-31"
   description = """
   Responsibilities included:
-	Development and testing of product demos for Dawn
-	Aiding in direction of demo reel for marketing purposes"""
+	  * Development and testing of product demos for Dawn
+	  * Aiding in direction of demo reel for marketing purposes"""
   
 +++
