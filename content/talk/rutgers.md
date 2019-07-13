@@ -16,7 +16,7 @@ all_day: true
 publishDate: "2019-07-05T00:00:00Z"
 
 authors: []
-tags: ["meta-omics","sequencing","engineered bioprocess","wastewater engineering"]
+tags: ["meta-omics","sequencing","engineered bioprocess","wastewater engineering","nutrient cycling"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -43,7 +43,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-   []
+   ["nutrient-cycling"]
  
 
 # Enable math on this page?
