@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Research Fellow"
-  company = "Uhlemann Laboratory, Columbia University Medical Center, Department of Medicine - Infectious Diseases"
+  company = "Uhlemann Laboratory, Columbia University Medical Center<br>Department of Medicine - Infectious Diseases"
   company_url = ""
   location = "New York, NY"
   date_start = "2018-12-01"
@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """
   Research projects:  
   
-  * Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)  
-  * Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
+  * Gut & oral microbiome in immunocompromised hosts (transplant recipients, HIV+ patients)  
+  * Microbiome signatures of colonization & infection by multidrug-resistant organisms"""
   
 [[experience]]
   title = "Postdoctoral Research Scientist"
-  company = "Uhlemann Laboratory, Columbia University Medical Center, Department of Medicine - Infectious Diseases"
+  company = "Uhlemann Laboratory, Columbia University Medical Center<br>Department of Medicine - Infectious Diseases"
   company_url = ""
   location = "New York, NY"
   date_start = "2017-06-01"
@@ -41,11 +41,11 @@ date_format = "Jan 2006"
   Research projects:  
   
   * Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods  
-	* Liver transplant microbiome"""
+  * Liver transplant microbiome"""
 
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "Chandran Laboratory, Columbia University, Department of Earth & Environmental Engineering"
+  company = "Chandran Laboratory, Columbia University<br>Department of Earth & Environmental Engineering"
   company_url = ""
   location = "New York, NY"
   date_start = "2012-09-01"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Undergraduate Research Assistant"
-  company = "Collins Laboratory, Carnegie Mellon University, Department of Chemistry"
+  company = "Collins Laboratory, Carnegie Mellon University<br>Department of Chemistry"
   company_url = ""
   location = "New York, NY"
   date_start = "2010-10-01"
