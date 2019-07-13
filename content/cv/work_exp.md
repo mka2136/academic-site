@@ -18,27 +18,64 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Research Fellow"
+  company = "Uhlemann Laboratory, Columbia University Medical Center, Department of Medicine - Infectious Diseases"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New York, NY"
+  date_start = "2018-12-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = !"""
+  Research projects:
+	Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)
+	Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+[[experience]]
+  title = "Postdoctoral Research Scientist"
+  company = "Uhlemann Laboratory, Columbia University Medical Center, Department of Medicine - Infectious Diseases"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2017-06-01"
+  date_end = "2018-11-30"
+  description = """
+  Research projects:
+	Comparative genomics of pathogenic, multidrug-resistant Gram-negative rods
+	Liver transplant microbiome"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "Chandran Laboratory, Columbia University, Department of Earth & Environmental Engineering"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "New York, NY"
+  date_start = "2012-09-01"
+  date_end = "2017-05-20"
+  description = """
+  Research projects (Nutrient Cycling in Waste Streams):
+	Meta-omics of biological nitrogen removal from lab- and full-scale wastewater treatment reactors
+	Comparative genomics of phosphorus-accumulating organisms
+	Anaerobic fermentation of food waste"""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Collins Laboratory, Carnegie Mellon University, Department of Chemistry"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2010-10-01"
+  date_end = "2012-05-30"
+  description = """
+  Research projects:
+	pH-dependent kinetics of TAML-activated oxidation 
+	Oxidation of persistent water pollutants using TAML-catalysis"""
 
+[[experience]]
+  title = "Intern, Products Research"
+  company = ! "Proctor & Gamble, Home Care Research & Development"
+  company_url = ""
+  location = "Cincinnati, OH"
+  date_start = "2010-06-01"
+  date_end = "2010-08-31"
+  description = """
+  Responsibilities included:
+	Development and testing of product demos for Dawn
+	Aiding in direction of demo reel for marketing purposes"""
+  
 +++
