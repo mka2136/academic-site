@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Research projects:  
   * Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)  
-	* Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
+  * Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
   
 [[experience]]
   title = "Postdoctoral Research Scientist"
