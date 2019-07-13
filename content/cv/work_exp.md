@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "New York, NY"
   date_start = "2018-12-01"
   date_end = ""
-  description = !"""
+  description = """
   Research projects:
 	Gut & oral microbiome in immunocompromised hosts (transplant recipients, patients with HIV)
 	Microbiome signatures of colonization and infection by multidrug-resistant organisms"""
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern, Products Research"
-  company = ! "Proctor & Gamble, Home Care Research & Development"
+  company = "Proctor & Gamble, Home Care Research & Development"
   company_url = ""
   location = "Cincinnati, OH"
   date_start = "2010-06-01"
