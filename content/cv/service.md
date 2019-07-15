@@ -47,6 +47,16 @@ date_format = "2006"
   date_start = "2014-05-01"
   date_end = "2015-08-01"
   description = "In my role at the grassroots non-profit organization FACE Africa, I helped oversee the planning and implementation of clean drinking water and sanitation facilities in Rivercess County, Liberia through remote and in-person field work. My responsibilities included the selection of appropriate project sites based on local public health need and engineering considerations; oversight of project implementation by local teams; and reporting to governmental agencies and donors."
+
+[[item]]
+  organization = "Research Seminar Series"
+  organization_url = "https://www.infectiousdiseases.cumc.columbia.edu/research/research-centers-and-programs/microbiome-working-group"
+  title = "Organizer, Microbiome Working Group"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = "2018-08-01"
+  description = "Organized monthly educational conferences on topics of microbiome research at Columbia University Medical Center"
   
 [[item]]
   organization = "Blueprint Earth"
