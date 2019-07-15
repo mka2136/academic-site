@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Teaching Experience & Responsibilities"
+title = "Memberships"
 subtitle = ""
 
 [design]
@@ -47,15 +47,17 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>09/2016 – 12/2016</strong>	Department of Earth and Environmental Engineering, Columbia University  
-					New York, NY  
-					*Teaching Assistant, Aquatic Chemistry*  
-<strong>01/2012 – 05/2012</strong>	Department of Biological Sciences, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Experimental Techniques in Molecular Biology*  
-<strong>09/2011 – 12/2011</strong>	Department of Biological Sciences, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Experimental Biochemistry*  
-<strong>08/2010 – 12/2010</strong>	Department of Philosophy, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Ethical Judgments in Professional Life*
+<strong>Professional Organizations</strong>
+
+<strong>2018 – Present</strong>	    American Society of Microbiology (ASM)  
+<strong>2016 – Present</strong>	    American Association for the Advancement of Science (AAAS)  
+<strong>2016 – Present</strong>	    Water Environment Federation (WEF)  
+<strong>2016 – Present</strong>	    NY Water Environment Association (NYWEA)  
+<strong>2012 – Present</strong>	    Phi Kappa Phi  
+<strong>2012 – Present</strong>	    Phi Beta Kappa  
+
+<strong>*Ad hoc* Reviewer</strong>
+
+<strong>2019</strong>     *mSphere*  
+<strong>2017</strong>     *Environmental Science & Technology*  
+<strong>2016</strong>     *Chemical Engineering Journal*

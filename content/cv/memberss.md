@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Teaching Experience & Responsibilities"
 subtitle = ""
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#917676"
+  color = "#917676"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -47,15 +47,15 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>Fall 2016</strong>	Department of Earth and Environmental Engineering, Columbia University  
+<strong>09/2016 – 12/2016</strong>	Department of Earth and Environmental Engineering, Columbia University  
 					New York, NY  
 					*Teaching Assistant, Aquatic Chemistry*  
-<strong>Spring 2012</strong>   Department of Biological Sciences, Carnegie Mellon University  
+<strong>01/2012 – 05/2012</strong>	Department of Biological Sciences, Carnegie Mellon University  
 					Pittsburgh, PA  
 					*Teaching Assistant, Experimental Techniques in Molecular Biology*  
-<strong>Fall 2011</strong>	Department of Biological Sciences, Carnegie Mellon University  
+<strong>09/2011 – 12/2011</strong>	Department of Biological Sciences, Carnegie Mellon University  
 					Pittsburgh, PA  
 					*Teaching Assistant, Experimental Biochemistry*  
-<strong>Fall 2010</strong>	Department of Philosophy, Carnegie Mellon University  
+<strong>08/2010 – 12/2010</strong>	Department of Philosophy, Carnegie Mellon University  
 					Pittsburgh, PA  
 					*Teaching Assistant, Ethical Judgments in Professional Life*
