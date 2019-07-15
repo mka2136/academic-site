@@ -47,15 +47,19 @@ subtitle = ""
  css_class = ""
 +++
 
-<strong>Fall 2016</strong>	Department of Earth and Environmental Engineering, Columbia University  
-					New York, NY  
-					*Teaching Assistant, Aquatic Chemistry*  
-<strong>Spring 2012</strong>   Department of Biological Sciences, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Experimental Techniques in Molecular Biology*  
-<strong>Fall 2011</strong>	Department of Biological Sciences, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Experimental Biochemistry*  
-<strong>Fall 2010</strong>	Department of Philosophy, Carnegie Mellon University  
-					Pittsburgh, PA  
-					*Teaching Assistant, Ethical Judgments in Professional Life*
+<strong>Teaching Assistant, Aquatic Chemistry (Fall 2016)</strong>  
+*Department of Earth and Environmental Engineering, Columbia University  
+New York, NY*  
+<br>  
+<strong>Teaching Assistant, Experimental Techniques in Molecular Biology (Spring 2012)</strong>  
+*Department of Biological Sciences, Carnegie Mellon University  
+Pittsburgh, PA*  
+<br>
+<strong>Teaching Assistant, Experimental Biochemistry (Fall 2011)</strong>  
+*Department of Biological Sciences, Carnegie Mellon University  
+Pittsburgh, PA*  
+<br>
+<strong>Teaching Assistant, Ethical Judgments in Professional Life (Fall 2010)</strong>  
+*Department of Philosophy, Carnegie Mellon University  
+Pittsburgh, PA*
+
