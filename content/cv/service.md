@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Scholar in Service"
   url = ""
   certificate_url = ""
-  date_start = "2019-09-01"
+  date_start = "2009-09-01"
   date_end = "2011-05-01"
   description = "Selected as the Community Service Intern at Carnegie Mellon University through AmeriCorps. I networked with local non-profit organizations and organized targeted local service experiences for all campus student groups."
   
