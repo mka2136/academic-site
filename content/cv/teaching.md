@@ -50,7 +50,7 @@ subtitle = ""
 <strong>Teaching Assistant, Aquatic Chemistry (Fall 2016)</strong>  
 *Department of Earth and Environmental Engineering, Columbia University  
 New York, NY*  
-<br>  
+<br>
 <strong>Teaching Assistant, Experimental Techniques in Molecular Biology (Spring 2012)</strong>  
 *Department of Biological Sciences, Carnegie Mellon University  
 Pittsburgh, PA*  
