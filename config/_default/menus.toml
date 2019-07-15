@@ -80,7 +80,7 @@
    
 [[main]]
    name = "Funding"
-   url = "cv/#fellowships"
+   url = "cv/#funding"
    weight = 50
    parent = "CV"
    
@@ -102,11 +102,11 @@
    weight = 80
    parent = "CV"
    
-[[main]]
-   name = "Mentoring"
-   url = "cv/#mentoring"
-   weight = 90
-   parent = "CV"
+# [[main]]
+  # name = "Mentoring"
+  # url = "cv/#mentoring"
+  # weight = 90
+  # parent = "CV"
    
 [[main]]
    name = "Trainings"
