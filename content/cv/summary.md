@@ -24,15 +24,15 @@ title = "Executive Summary"
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "bio_background.png"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "exec_summary.png"  # Name of image in `static/img/`.
+  image_darken = 0.25  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true
   
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["30px", "0", "30px", "0"]
   
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
