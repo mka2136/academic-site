@@ -8,33 +8,33 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Research"
-  url = "#research"
-  weight = 20
+#[[main]]
+ # name = "Research"
+ # url = "#research"
+ # weight = 20
 
 [[main]]
   name = "Talks"
   url = "#talks"
   weight = 40
   
-[[main]]
-  name = "Projects"
-  url = "personal/"
-  weight = 50
-  identity = "Projects"
+#[[main]]
+ # name = "Projects"
+ # url = "personal/"
+ # weight = 50
+ # identity = "Projects"
 
-[[main]]
-  name = "Photo Booth"
-  url = "personal/#photo-booth"
-  weight = 10
-  parent = "Projects"
+#[[main]]
+ # name = "Photo Booth"
+ # url = "personal/#photo-booth"
+ # weight = 10
+ # parent = "Projects"
   
-[[main]]
-  name = "A Color Story"
-  url = "personal/#a-color-story"
-  weight = 20
-  parent = "Projects"
+#[[main]]
+ # name = "A Color Story"
+ # url = "personal/#a-color-story"
+ # weight = 20
+ # parent = "Projects"
 
 [[main]]
   name = "Publications"
