@@ -27,5 +27,15 @@ date_format = "Jan 2006"
   date_start = "2019-06-06"
   date_end = ""
   description = "Two-day intensive boot camp of seminars combined with hands-on R sessions to provide an overview of concepts, techniques, and data analysis methods with applications in biomedical research."
+  
+[[item]]
+  organization = "Foundations for Research Computing, Columbia University"
+  organization_url = ""
+  title = "Python and Git Boot Camp"
+  url = "https://columbiaswc.github.io/2019-08-26-columbia-section-3/"
+  certificate_url = ""
+  date_start = "2019-08-26"
+  date_end = "2019-08-27"
+  description = "Two-day boot camp focused on applying computational methods in research processes, covering Git and Python basics"
 
 +++
