@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = "https://columbiaswc.github.io/2019-08-26-columbia-section-3/"
   certificate_url = ""
   date_start = "2019-08-26"
-  date_end = "2019-08-27"
+  date_end = ""
   description = "Two-day boot camp focused on applying computational methods in research processes, covering Git and Python basics"
 
 +++
