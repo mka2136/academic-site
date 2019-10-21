@@ -47,6 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
+<strong>Workshop Instructor, Biotech without Borders (Fall 2019)</strong>
+*Created and taught a 2.5-hour workshop, “Genomics in the human body: host genetics and the gut microbiome,” at the community biotech lab open to the public, covering whole-exome data analysis to identify potentially pathogenic variants and metagenomics of the gut microbiome.*
+<br>
 <strong>Teaching Assistant, Aquatic Chemistry (Fall 2016)</strong>  
 *Department of Earth and Environmental Engineering, Columbia University  
 New York, NY*  
