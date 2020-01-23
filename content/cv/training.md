@@ -28,4 +28,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Two-day intensive boot camp of seminars combined with hands-on R sessions to provide an overview of concepts, techniques, and data analysis methods with applications in biomedical research."
 
+[[item]]
+  organization = "Foundations for Research Computing, Columbia University"
+  organization_url = ""
+  title = "Plotting and Programming in Python Bootcamp"
+  url = "https://swcarpentry.github.io/python-novice-gapminder/setup/"
+  certificate_url = ""
+  date_start = "2019-08-26"
+  date_end = ""
+  description = "Two-day hands-on workshop covering basic concepts and tools, including program design, version control, and task automation."
+
+  
+  
 +++
