@@ -52,7 +52,6 @@ subtitle = ""
 * Science Communication Symposium; Presentations of research abstracts using only 1,000 most commonly used words in English
 
 <strong>2019:</strong> Outstanding Abstract Award, ASM Microbe 2019  
-<strong>2019:</strong> ASM Travel Award, ASM Microbe 2019  
 <strong>2018:</strong> Conference Participation Grant, International Microbiome in HIV Workshop  
 <strong>2017:</strong> Herbert H. Kellogg Fellowship, Columbia School of Engineering and Applied Sciences
 
