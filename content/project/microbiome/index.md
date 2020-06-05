@@ -1,6 +1,6 @@
 ---
 title: Gut and Oral Microbiome in Immunocompromised Hosts
-summary: An example.
+summary: 
 tags:
 - microbiome
 date: "2019-07-09T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Test
+My primary postdoctoral research goals include exploration of the dynamics between colonizing and infectious MDRO and commensal bacteria within the overall microbiome structure. Currently, my main focus is the study of the oral and gut microbiomes and mycobiomes in immunocompromised hosts, primarily liver transplant recipients and people living with HIV. Through 16S rRNA, ITS, and metagenomic sequencing, we have linked clinically relevant patient outcomes with changes in the gut or oral micro- and myco-bial structure and diversity. We have also identified specific microbiome characteristics which enable colonization and infection by, or clearance of, MDRO, a significant cause of morbidity and mortality in hospitalized patients.
