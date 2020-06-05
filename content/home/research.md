@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Research Projects"
@@ -23,11 +23,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Nutrient Cycling"
-    tag = "nutrient cycling"
+    tag = "nutrient-cycling"
     
   [[content.filter_button]]
     name = "Multidrug Resistance"
-    tag = "multidrug resistance"
+    tag = "multidrug-resistance"
     
   [[content.filter_button]]
     name = "Immunocompromised Host Microbiome"
