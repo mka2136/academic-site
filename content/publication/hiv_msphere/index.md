@@ -37,19 +37,7 @@ publication_short: "*mSphere*"
 abstract: ! "Despite evidence of a chronic inflammatory phenotype in people living with HIV (PLWH) on antiretroviral therapy (ART), the role of oral microbiota in chronic immune activation has not been fully explored. We aimed to determine the relationship between oral and gut microbiome diversity and chronic systemic inflammation in ART-treated PLWH with prevalent severe periodontitis, an inflammatory condition commonly associated with HIV infection. We assessed bacterial and fungal communities at oral and gastrointestinal sites in a cohort (n=52) of primarily postmenopausal women on ART using 16S rRNA and internal transcribed spacer (ITS) sequencing and measured cellular and soluble markers of inflammation and immune dysfunction. Linear mixed-effect regression and differential abundance analyses were used to associate clinical characteristics and immunological markers with bacterial and fungal diversity and community composition. Bacterial alpha-diversity in plaque, saliva, and gut was associated with different immunological markers, while mycobial diversity was not associated with soluble or cellular biomarkers of immune stimulation or T cell dysfunction. Furthermore, lipopolysaccharide-positive (LPS+) bacteria previously linked to inflammatory outcomes were enriched at oral sites in patients with severe periodontitis. Fungal alpha-diversity was reduced in plaque from teeth with higher clinical attachment loss, a marker of periodontitis, and in saliva and plaque from patients with a history of AIDS. Our results show that both bacterial and fungal oral microbiome communities likely play a role in chronic systemic immune activation in PLWH. Thus, interventions targeting both inflammation and the microbiome, particularly in the oral cavity, may be necessary to reduce chronic immune dysregulation in patients with HIV."
 
 # Summary. An optional shortened abstract.
-summary: ! "<strong>Importance</strong> A feedback loop between dysbiotic gut microbiota, increased translocation
-of microbial products such as lipopolysaccharide, and inflammation has been
-hypothesized to cause immune system dysfunction in early HIV infection. However,
-despite evidence of a chronic inflammatory phenotype in patients on antiretroviral
-therapy (ART), the role of oral microbiota in systemic immune activation and the relationship
-between oral and gut bacterial and fungal diversity have not been explored.
-Our study suggests a crucial role for oral bacterial and fungal communities
-in long-term systemic immune activation in patients on ART, expanding the current
-paradigm focused on gut bacteria. Our results indicate that interventions targeting
-both inflammation and microbial diversity are needed to mitigate oral inflammationrelated
-comorbidities particularly in HIV-positive patients. More broadly, these findings
-can bolster general models of microbiome-mediated chronic systemic immune activation and aid the development of precise microbiota-targeted interventions to
-reverse chronic inflammation."
+summary: ! "<strong>Importance</strong> A feedback loop between dysbiotic gut microbiota, increased translocation of microbial products such as lipopolysaccharide, and inflammation has been hypothesized to cause immune system dysfunction in early HIV infection. However, despite evidence of a chronic inflammatory phenotype in patients on antiretroviral therapy (ART), the role of oral microbiota in systemic immune activation and the relationship between oral and gut bacterial and fungal diversity have not been explored. Our study suggests a crucial role for oral bacterial and fungal communities in long-term systemic immune activation in patients on ART, expanding the current paradigm focused on gut bacteria. Our results indicate that interventions targeting both inflammation and microbial diversity are needed to mitigate oral inflammationrelated comorbidities particularly in HIV-positive patients. More broadly, these findings can bolster general models of microbiome-mediated chronic systemic immune activation and aid the development of precise microbiota-targeted interventions to reverse chronic inflammation." 
 
 tags:
 - HIV
@@ -58,7 +46,7 @@ tags:
 - oral microbiome
 - immune regulation
 
-featured: true
+featured: false
 
 links:
  - name: "Cite"
