@@ -49,15 +49,15 @@ subtitle = ""
 
 <strong>Professional Organizations</strong>
 
+<strong>2019 – Present</strong>	    Association for Clinical and Translational Science (ACTS)  
 <strong>2018 – Present</strong>	    American Society of Microbiology (ASM)  
 <strong>2016 – Present</strong>	    American Association for the Advancement of Science (AAAS)  
 <strong>2016 – Present</strong>	    Water Environment Federation (WEF)  
 <strong>2016 – Present</strong>	    NY Water Environment Association (NYWEA)  
-<strong>2012 – Present</strong>	    Phi Kappa Phi  
-<strong>2012 – Present</strong>	    Phi Beta Kappa  
 
 <strong>*Ad hoc* Reviewer</strong>
 
-<strong>2019</strong>     *mSphere*  
+<strong>2019</strong>     *Antimicrobial Agents and Chemotherapy*  
+<strong>2019</strong>     *mSphere*, *Journal of Global Antimicrobial Resistance* 
 <strong>2017</strong>     *Environmental Science & Technology*  
 <strong>2016</strong>     *Chemical Engineering Journal*
