@@ -21,11 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Mailman School of Public Health, Columbia University"
   organization_url = ""
+  title = "The Exposome Boot Camp: Measuring Exposures on an Omic Scale"
+  url = "https://www.publichealth.columbia.edu/research/precision-prevention/exposome-boot-camp-measuring-exposures-omic-scale"
+  certificate_url = ""
+  date_start = "2020-07-23"
+  date_end = "2020-07-24"
+  description = "Two-day intensive boot camp of seminars and hands-on analytical sessions to provide an overview of concepts, techniques, and data analysis methods used in studies of the exposome."
+
+[[item]]
+  organization = "Mailman School of Public Health, Columbia University"
+  organization_url = ""
   title = "Machine Learning Boot Camp: Analyzing Biomedical and Health Data"
   url = "https://www.mailman.columbia.edu/research/precision-prevention/machine-learning-boot-camp-analyzing-biomedical-and-health-data"
   certificate_url = ""
   date_start = "2019-06-06"
-  date_end = ""
+  date_end = "2019-06-07"
   description = "Two-day intensive boot camp of seminars combined with hands-on R sessions to provide an overview of concepts, techniques, and data analysis methods with applications in biomedical research."
   
 [[item]]
