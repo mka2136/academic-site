@@ -65,6 +65,8 @@ subtitle = ""
 
 * Selected for a multidisciplinary group of 30 students to participate in discussions on the role of the US in international affairs
 
+<strong>2012:</strong> Phi Beta Kappa Honors Society induction, Carnegie Mellon University  
+<strong>2012:</strong> Phi Kappa Phi Honors Society induction, Carnegie Mellon University  
 <strong>2012:</strong> University Honors, Carnegie Mellon University  
 <strong>2012:</strong> Mellon College of Science Honors, Carnegie Mellon University  
 <strong>2012:</strong> Outstanding Undergraduate Research, Carnegie Mellon University  
