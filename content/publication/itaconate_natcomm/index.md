@@ -18,7 +18,7 @@ authors:
 - Anne-Catrin Uhlemann
 - Barbara C. Kahl
 - Alice S. Prince
-- Sebastián A. Riquelme 
+- Sebastian A. Riquelme 
 date: "2021-03-01T00:00:00Z"
 doi: "10.1038/s41467-021-21718-y"
 
@@ -35,10 +35,10 @@ publication_types: ["2"]
 publication: "*Nature Communications*"
 publication_short: "*Nat Comm*"
 
-abstract: ! "*Staphylococcus aureus* is a prominent human pathogen that readily adapts to host immune defenses. Here, we show that, in contrast to Gram-negative pathogens, *S. aureus* induces a distinct airway immunometabolic response dominated by the release of the electrophilic metabolite, itaconate. The itaconate synthetic enzyme, IRG1, is activated by host mitochondrial stress, which is induced by staphylococcal glycolysis. Itaconate inhibits *S. aureus* glycolysis and selects for strains that re-direct carbon flux to fuel extracellular polysaccharide (EPS) synthesis and biofilm formation. Itaconate-adapted strains, as illustrated by *S. aureus* isolates from chronic airway infection, exhibit decreased glycolytic activity, high EPS production, and proficient biofilm formation even before itaconate stimulation. *S. aureus* thus adapts to the itaconate-dominated immunometabolic response by producing biofilms, which are associated with chronic infection of the human airway."
+abstract: ! "*Staphylococcus aureus* is a prominent human pathogen that readily adapts to host immune defenses. Here, we show that, in contrast to Gram-negative pathogens, *S. aureus* induces a distinct airway immunometabolic response dominated by the release of the electrophilic metabolite, itaconate. The itaconate synthetic enzyme, IRG1, is activated by host mitochondrial stress, which is induced by staphylococcal glycolysis. Itaconate inhibits *S. aureus* glycolysis and selects for strains that re-direct carbon flux to fuel extracellular polysaccharide (EPS) synthesis and biofilm formation. Itaconate-adapted strains, as illustrated by *S. aureus* isolates from chronic airway infection, exhibit decreased glycolytic activity, high EPS production, and proficient biofilm formation even before itaconate stimulation. *S. aureus* thus adapts to the itaconate-dominated immunometabolic response by producing biofilms, which are associated with chronic infection of the human airway."  
 
 # Summary. An optional shortened abstract.
-summary: ! "*S. aureus* induces a distinct airway immunometabolic response dominated by the release of the electrophilic metabolite, itaconate, which drives the production of biofilms associated with chronic infection of the human airway"
+summary: ! "*S. aureus* induces a distinct airway immunometabolic response dominated by the release of the electrophilic metabolite, itaconate, which drives the production of biofilms associated with chronic infection of the human airway"  
 
 tags:
 - bacterial pneumonia
@@ -46,7 +46,7 @@ tags:
 - metabolism
 - itaconate
 - host-adaptation
-- *Staphylococcus aureus*
+- Staphylococcus aureus
 
 featured: false
 
