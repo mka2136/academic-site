@@ -32,7 +32,11 @@ subtitle = ""
   [[content.filter_button]]
     name = "Immunocompromised Host Microbiome"
     tag = "microbiome"
-
+  
+  [[content.filter_button]]
+    name = "SARS-CoV-2"
+    tag = "covid"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -41,7 +45,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

@@ -27,12 +27,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Associate Research Scientist"
+  company = "Uhlemann Laboratory, Columbia University Medical Center<br>Department of Medicine - Infectious Diseases"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Research projects:  
+  
+  * Optimizing the detection of SARS-CoV-2 and other pathogenic organisms in wastewater"""
+  
+[[experience]]
   title = "Postdoctoral Research Fellow"
   company = "Uhlemann Laboratory, Columbia University Medical Center<br>Department of Medicine - Infectious Diseases"
   company_url = ""
   location = "New York, NY"
   date_start = "2018-12-01"
-  date_end = ""
+  date_end = "2020-05-30"
   description = """
   Research projects:  
   
