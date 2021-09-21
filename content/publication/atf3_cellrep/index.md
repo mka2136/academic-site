@@ -40,7 +40,7 @@ tags:
 - glycolysis 
 - metabolism
 - acetylation
-- *Klebsiella pneumoniae* sequence type 258
+- Klebsiella pneumoniae sequence type 258
 
 featured: false
 
