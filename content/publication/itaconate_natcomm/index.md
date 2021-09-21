@@ -52,7 +52,7 @@ featured: false
 
 links:
  - name: "Cite"
-   url: "citation.ris"
+   url: "citation.bib"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
