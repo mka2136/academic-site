@@ -2,6 +2,7 @@
 title: SARS-CoV-2 and COVID-19
 summary: 
 tags:
+- sars-cov-2
 - SARS-CoV-2
 - viral genomics
 - Wastewater surveillance
@@ -32,4 +33,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Genomic and wastewater surveillance of SARS-CoV-2.
 
