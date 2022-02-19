@@ -48,7 +48,7 @@ tags:
 - mortality
 - clinical outcomes
 
-featured: true
+featured: false
 
 links:
  - name: "Cite"

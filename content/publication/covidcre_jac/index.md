@@ -55,7 +55,7 @@ tags:
 - COVID-19
 - SARS-CoV-2
 
-featured: true
+featured: false
 
 links:
  - name: "Cite"
