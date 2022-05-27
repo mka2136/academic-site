@@ -48,6 +48,6 @@ title = "Executive Summary"
 +++
 <p style="color:white;font-size:18px;">I have always been in awe of, and inspired by, what microorganisms can do to and for us humans. As a microbiologist and engineer, I have a background in pathogen genomics and multidrug resistance, human and environmental microbiomes, and engineering of biological processes.</p> 
 
-<p style="color:white;font-size:18px;">My recent focus has been the complex relationships between commensal and pathogenic organisms in the human microbiome. Specifically, I study how oral and gut microbiota modulate the emergence and clearance of multidrug-resistant organisms in immunocompromised hosts. My future research interests lie at the intersection of environmental bioprocess engineering and the relationship between the human microbiome and antimicrobial resistance.</p>
+<p style="color:white;font-size:18px;">I am currently an Associate Research Scientist at Columbia University Irving Medical Center, where I focus on the use of wastewater-based surveillance for SARS-CoV-2 and other pathogens, including multidrug-resistant bacteria. My future research interests lie at the intersection of environmental bioprocess engineering and the relationship between the human microbiome and antimicrobial resistance.</p>
 
 {{% staticref "files/academic_cv.pdf" "newtab" %}}SCROLL DOWN FOR MORE, OR FIND A PDF OF MY CV HERE ›{{% /staticref %}}
