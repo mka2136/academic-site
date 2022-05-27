@@ -1,5 +1,5 @@
 ---
-title: ! "Partial ORF1ab Gene Target Failure with Omicron BA.2.12.1"
+title: ! "Development and performance of a point-of-care rapid antigen test for detection of SARS-CoV-2 variants"
 authors:
 - Lihong Liu
 - Kathrine Meyers
