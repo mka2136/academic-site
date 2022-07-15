@@ -3,17 +3,17 @@ title: ! "Development and performance of a point-of-care rapid antigen test for 
 authors:
 - Lihong Liu
 - Kathrine Meyers
-- Lawrence J Purpura
+- Lawrence J. Purpura
 - Nadia Nguyen
 - Hiroshi Mohri
-- Jennifer Y Chang
-- Medini K Annavajhala
+- Jennifer Y. Chang
+- Medini K. Annavajhala
 - Leo Lopez III
 - Sang Won Lee
 - Jayesh Shah
 - Benjamin Lane
 - Anyelina Cantos
-- Sade A Tukuru
+- Sade A. Tukuru
 - Yicheng Guo
 - Kenra Ford
 - Yueh-Ting Chiu
@@ -22,7 +22,7 @@ authors:
 - Delivette Castor
 - Maple Wang
 - Christina Pili
-- Michael N Van Hoy
+- Michael N. Van Hoy
 - Andrew Wallach
 - Jamie Horton
 - Zhiqiang Chen
@@ -30,10 +30,10 @@ authors:
 - Son McLaren
 - Baowei Jiang
 - Frank Wang
-- Helen H Lu
+- Helen H. Lu
 - Anne-Catrin Uhlemann
-- David D Ho
-- Michael T Yin
+- David D. Ho
+- Michael T. Yin
 date: "2022-05-04T00:00:00Z"
 doi: "10.1016/j.jcvp.2022.100080"
 

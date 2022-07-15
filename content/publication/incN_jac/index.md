@@ -2,9 +2,9 @@
 title: ! "Population structure of blaKPC-harbouring IncN plasmids at a New York City medical centre and evidence for multi-species horizontal transmission"
 authors:
 - Angela Gomez-Simmonds
-- Medini K Annavajhala
+- Medini K. Annavajhala
 - Nina Tang
-- Felix D Rozenberg
+- Felix D. Rozenberg
 - Mehrose Ahmad
 - Heekuk Park
 - Allison J. Lopatkin

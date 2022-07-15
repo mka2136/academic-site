@@ -3,34 +3,34 @@ title: ! "Klebsiella pneumoniae induces host metabolic stress that promotes tole
 authors:
 - Tania Wong Fok Lung
 - Daniel Charytonowicz
-- Kristin G Beaumont
-- Shivang S Shah
-- Shwetha H Sridhar
-- Claire L Gorrie
+- Kristin G. Beaumont
+- Shivang S. Shah
+- Shwetha H. Sridhar
+- Claire L. Gorrie
 - Andre Mu
-- Casey E Hofstaedter
+- Casey E. Hofstaedter
 - David Varisco
-- Thomas H McConville
+- Thomas H. McConville
 - Marija Drikic
 - Brandon Fowler
 - Andreacarola Urso
 - Wei Shi
 - Dario Fucich
-- Medini K Annavajhala
-- Ibrahim N Khan
+- Medini K. Annavajhala
+- Ibrahim N. Khan
 - Irina Oussenko
-- Nancy J Francoeur
-- Melissa L Smith
-- Brent R Stockwell
-- Ian A Lewis
+- Nancy J. Francoeur
+- Melissa L. Smith
+- Brent R. Stockwell
+- Ian A. Lewis
 - Abderrahman Hachani
 - Swikrity Upadhyay Baskota
 - Anne-Catrin Uhlemann
 - Danielle Ahn
-- Robert K Ernst
-- Benjamin P Howden
+- Robert K. Ernst
+- Benjamin P. Howden
 - Robert Sebra
-- Alice S Prince
+- Alice S. Prince
 date: "2022-05-03T00:00:00Z"
 doi: "10.1016/j.cmet.2022.03.009"
 

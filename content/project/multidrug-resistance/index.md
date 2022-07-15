@@ -1,5 +1,5 @@
 ---
-title: Multidrug-Resistant Gram-Negative Pathogenic Bacteria
+title: Multidrug-Resistant Organisms & Pathogenic Genomics
 summary: 
 tags:
 - multidrug resistance
@@ -31,4 +31,4 @@ url_video: ""
 slides: ""
 ---
 
-Through my postdoctoral research, I have explored genomic and evolutionary characteristics of multidrug-resistant organisms (MDRO), including major public health threats such as carbapenem-resistant Enterobacteriaceae. I have experience developing, implementing, and analyzing Ion Torrent, Illumina, and Oxford Nanopore sequencing pipelines to study the evolutionary history of MDRO, genomic determinants of multidrug resistance, and transmission and spread of resistance via mobile genetic elements. A major focus has been liver transplant recipients and other immunocompromised hosts, in whom colonizing and infectious MDRO are a major contributor to morbidity and mortality. In parallel studies of the oral and gut microbiomes, we also explore how high-risk MDRO, including Enterobacteriaceae, interact with commensal organisms and evolve within the host. Ultimately, I hope to not only understand the characteristics, evolution, and pathogenesis of MDRO, but also to link the transmission of MDRO and genes conferring drug-resistance within host and environmental microbiome settings. 
+Through my postdoctoral research, I have explored genomic and evolutionary characteristics of multidrug-resistant organisms (MDRO), including major public health threats such as carbapenem-resistant Enterobacterales (CRE). I have experience developing, implementing, and analyzing Ion Torrent, Illumina, and Oxford Nanopore sequencing pipelines to study the evolutionary history of MDRO, genomic determinants of multidrug resistance, and transmission and spread of resistance via mobile genetic elements. A major focus has been liver transplant recipients and other immunocompromised hosts, in whom colonizing and infectious MDRO are a major contributor to morbidity and mortality. In parallel studies of the oral and gut microbiomes, we also explored how high-risk MDRO, including CRE, interact with commensal organisms and evolve within the host. Ultimately, I hope to not only understand the evolution and pathogenesis of MDRO, but also to link the transmission of MDRO and genes conferring drug-resistance within host and environmental microbiome settings. 
