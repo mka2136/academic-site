@@ -27,12 +27,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "RADx-rad Wastewater Detection of SARS-COV-2"
+  title = "NIH Pathway to Independence Career Development Award, K99AI163348"
+  company = "National Institutes of Health (NIH)/National Institute of Allergy and Infectious Diseases (NIAID)"
+  company_url = ""
+  location = ""
+  date_start = "2022-08-08"
+  date_end = "2024-07-31"
+  description = "Operationalizing wastewater-based surveillance of multidrug-resistant bacteria (Role: Principal Investigator)"
+
+[[experience]]
+  title = "RADx-rad Wastewater Detection of SARS-COV-2, U01DA053949"
   company = "National Institutes of Health (NIH)/National Institute on Drug Abuse (NIDA)"
   company_url = ""
   location = ""
   date_start = "2021-01-01"
-  date_end = "2022-12-31"
+  date_end = "2023-05-31"
   description = "Optimizing SARS-CoV-2 wastewater based surveillance in urban and university campus settings (MPI Uhlemann, Chandran; Role: Co-Investigator)"
   
 [[experience]]
@@ -42,7 +51,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-12-01"
   date_end = "2020-11-30"
-  description = "Microbial metagenomic pathways contributing to chronic inflammation in patients with HIV"
+  description = "Microbial metagenomic pathways contributing to chronic inflammation in patients with HIV; Role: Postdoctoral Fellow"
   
 [[experience]]
   title = "Undergraduate Researcher Grant"
