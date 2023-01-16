@@ -49,7 +49,7 @@ links:
  - name: "Source Data"
    url: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-019-12633-4/MediaObjects/41467_2019_12633_MOESM29_ESM.zip"
  - name: "GitHub Repo"
-   url: "github.com/mka2136/lt_microbiome" 
+   url: "https://github.com/mka2136/lt_microbiome" 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
