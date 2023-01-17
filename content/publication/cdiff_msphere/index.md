@@ -27,7 +27,7 @@ abstract: ! "*Clostridioides difficile* infection (CDI) has a higher incidence i
 
 
 # Summary. An optional shortened abstract.
-summary: ! "Identifictaion of clinical and microbiome factors to contribute to the development of *Clostridium difficile* in a cohort of patients undergoing liver transplantation."
+summary: ! "Identification of clinical and microbiome factors to contribute to the development of *Clostridium difficile* in a cohort of patients undergoing liver transplantation."
 
 tags:
 - 16S rRNA sequencing
